@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I165
 ### Team Details
-#### **Team Name** -Yeezy
+#### **Team Name** Yeezy
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |               HOSTEL/DAY SCHOLAR
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| :----------------------------------------| 
